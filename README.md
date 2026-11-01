@@ -31,7 +31,8 @@ This project teaches a computer to spot seizure patterns in one-second slices of
 *Research prototype — not a medical device.*
 
 ## 🔄 End-to-End Pipeline
-![End-to-end pipeline](images/pipeline_flowchart.png)
+<img width="826" height="1052" alt="image" src="https://github.com/user-attachments/assets/1122688e-ac5c-466b-98fb-e9d64541b27e" />
+
 
 ## ✨ Key Features
 - [x] Turns raw brain waves into 37 readable measurements
